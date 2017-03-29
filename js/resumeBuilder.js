@@ -149,7 +149,7 @@ var work = {
             'description': 'Build four javaScript objects, each one representing a different resume section. The objects that you create (including property names and the data types of their values) need to follow the schema below exactly. '
         },
         {
-            'employer': 'Panucci's Pizza',
+            'employer': "Panucci's Pizza",
             'title': 'delivery boy',
             'location': 'Riyadh',
             'dates': 'FEB 2017 - JUL 2017',
