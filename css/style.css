@@ -3,7 +3,6 @@ div,
 ul,
 li,
 p,
-h1,
 h2,
 h3,
 h4,
@@ -12,6 +11,9 @@ h6 {
   padding: 0;
   margin: 0;
   font-family: "Roboto", sans-serif;
+}
+.h1 {
+  color: #1199c3;
 }
 
 .clear-fix {
